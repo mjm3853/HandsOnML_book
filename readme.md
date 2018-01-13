@@ -1,6 +1,6 @@
 # From the book Hands-On Machine Learning
 
-Book by Aurelien Geron
+Book by Aurelien Geron.
 
 ## Environment setup
 
